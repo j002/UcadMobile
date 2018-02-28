@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Widget.AppCompat.ActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="CustomActivityTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:homeAsUpIndicator">@drawable/arrowtop</item>
+        <item name="homeAsUpIndicator">@drawable/arrowtop</item>
+        <item name="android:colorForeground">@color/bright_foreground_holo_light</item>
+    </style>
+
+    <style name="OwnTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar" >
+        <item name="android:colorBackground">@color/background_holo_light</item>
+    </style>
+
+</resources>

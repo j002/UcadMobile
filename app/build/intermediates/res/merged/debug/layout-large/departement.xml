@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        tools:layout="@layout/abc_action_bar_title_item"
+        android:layout_alignBottom="@+id/facDescription"
+        android:layout_alignTop="@+id/facDescription"
+        android:layout_toRightOf="@+id/facDescription"
+        android:layout_toEndOf="@+id/facDescription" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Hello World !"
+        android:id="@+id/facDescription"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="47dp"
+        android:layout_marginRight="20dp" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/depList"
+        android:layout_marginTop="64dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignRight="@+id/map"
+        android:layout_alignEnd="@+id/map" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="DEPARTEMENTS"
+        android:id="@+id/textView2"
+        android:layout_marginTop="89dp"
+        android:layout_below="@+id/map"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="52dp" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/traitgris"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout><!-- From: file:/C:/Users/HP/Documents/avoir/djibi%20doc/djibi%20prog/Luametele/ucadmobile-android/app/src/main/res/layout-large/departement.xml -->

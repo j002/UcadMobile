@@ -1,0 +1,5 @@
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pagerDep"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+</android.support.v4.view.ViewPager><!-- From: file:/C:/Users/HP/Documents/avoir/djibi%20doc/djibi%20prog/Luametele/ucadmobile-android/app/src/main/res/layout/departmentcontainactivity.xml -->

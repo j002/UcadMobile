@@ -1,0 +1,63 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardElevation="4dp"
+    android:textAlignment="center">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="170dp"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/screen_shot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/hello_world"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/tittle"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Hello world!"
+            android:inputType="text"
+            android:textColor="#000"
+            android:textSize="12sp"
+            android:singleLine="false"
+            android:textStyle="bold"
+            android:minLines="2"
+            android:maxLines="4"
+            android:textAlignment="center"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/screen_shot"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tittle"
+            android:layout_alignLeft="@+id/tittle"
+            android:text="Hello world!"
+            android:textSize="12sp"
+            android:layout_marginTop="4dp"
+            android:textColor="#000"
+            android:maxLines="4"
+            android:minLines="2"
+            android:layout_alignRight="@+id/tittle"
+            android:layout_alignEnd="@+id/tittle"
+            android:layout_alignParentBottom="true" />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

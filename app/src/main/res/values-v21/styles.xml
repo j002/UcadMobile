@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="OwnTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:colorBackground">@color/background_holo_light</item>
+        <item name="android:colorPrimary">@color/holo_light_primary</item>
+    </style>
+</resources>

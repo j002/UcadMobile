@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="volkeno.android.ucadmobile.ucadmobile"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="22" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- Include required permissions for Google Maps API to run -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+ <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light.DarkActionBar" >
+        <uses-sdk
+            android:minSdkVersion="MNC"
+            android:targetSdkVersion="MNC" />
+
+        <activity
+            android:name="volkeno.android.ucadmobile.ucadmobile.SectorContainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="volkeno.android.ucadmobile.ucadmobile.Actu_activity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar" >
+        </activity>
+        <activity
+            android:name="volkeno.android.ucadmobile.ucadmobile.view_with_tabs"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyB_Cjjj0wLDYimTJ2gGNT2hcyYjaS9OZVw" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="volkeno.android.ucadmobile.ucadmobile.Tabcontain.DepartmentContainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Tabcontain.DepartmentContainActivity" />
+        </activity>
+        <activity android:name="volkeno.android.ucadmobile.ucadmobile.Tabcontain.MapActivity" >
+        </activity>
+        <activity android:name="volkeno.android.ucadmobile.ucadmobile.tabs.SubjectContainActivity" >
+        </activity>
+        <activity
+            android:name="android.support.v7.widget.TestActivity"
+            android:label="RecyclerViewTestActivity" />
+ <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+    </application>
+
+</manifest>

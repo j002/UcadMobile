@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-2736a3c0b7f0e8d530849fa4e49b2c96880e8a31.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-5151a5d92f54cf39b7fbfa44e9da02a9d477bf60.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-c2118c6d637c2667dd81f5b48b5a1463b1e2ace4.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-35c961de07b1a1b4f9fd1cdbce55435ec9985eac.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-753b611f089026f966ac689c3a3f554026289502.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-e7a0cb72162e2e33d5179cc5418fb1664b34dca5.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bec5619c665a55620fc69006e89fdfb48517675">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-408973c21dcb51cb46fce9a8c92c2c1f83d6d06b.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-7b914241ec111b727221ca45f8ce7ce7c2a58aee.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-03e15b89c81b0aa508871a09b9a27b14f0915da2.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-063bf45b0522095d80bf640dd8685e4aa61e8081.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-34a209bc95e347c8370456be70b600957b130c65.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-39027c5043ab6aeb65302af161f4fa722a67ddf0.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-92cb6c9fe9c4ce43e707a76817e8a34893fc5ca3.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-2cd60e6cb70119aca1feab8ee133a55f9318b3d1.jar" />
+    </item>
+    <item
+        jar="/home/number/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-d4fd38554f6e4e48d369bd65688f50d3102fcb4e.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-882d9d82f386fc791fd6420d6fef00aef60f4790.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-edab395898b3809b1578ddb30ae1ab527dc57fbf.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-e1dcc4a481a2b3fccc8787d2073b62b623918614.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-41cf678a073c094898822f97cc21ccd65e433fcd.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-8f3fa4a3156d6685f62771f8f8af741b51a630a5.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-5bbcdaa207e1d534b1b08f912238653b1b1879fa.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-a1bed3c071c2e80b9aecfc571e3ebf88aed24d1b.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-5a64cbc9cf6866f63ace0cb54568b3ee3982e40f.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-10e487aba28af6565bd892ca49f33115c0c78f66.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ec74d73df30cafbf751ad96757e6484d530f0b68.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-c15c48d1bec0cb098579e73186d26d90d753bd64.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-3ab0acc0709b551dfa96310f451b13c839fd5b36.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/libs/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-9ba61b98b6e81f0d4037356130bcb89a3425a9d6.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/libs/realm-0.82.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6325383149a08e5cb668bdc4d3c790708636e47">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/realm-0.82.2-567c17d3f8407e3c00967223ce7afc335b913334.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-bde71a6eef71a1ea1c9ff29eb132f86fe5f26035.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-e41c361b5cdd0856197fbb7af5c1116757ddb8b0.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-e017ab4ced3b4e73e13fbeb9c61e02ac0e61703f.jar" />
+    </item>
+    <item
+        jar="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/number/Bureau/ua/ucadmobile-android/app/build/intermediates/pre-dexed/debug/classes-3c62ec27e7a8a6ffc715372ffd03076c7cb6b09e.jar" />
+    </item>
+
+</items>
